@@ -26,7 +26,7 @@ Build the circuit described by the schematic in `kicad/schematic.pdf`.
 Clone the repository using
 
 ``` sh
-git clone 
+git clone https://github.com/WGeckle80/arduino-adder-unit.git
 ```
 
 Open `arduino-adder-unit.ino` in the Arduino IDE, and upload the
