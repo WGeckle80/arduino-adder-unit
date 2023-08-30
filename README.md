@@ -38,10 +38,12 @@ Enter a valid binary operation with a and b in [-8, 7]:
 "a + b", "a - b"
 ```
 
-Type in a valid expression such as `-5 + -6`, and take note of the
+Type in a valid expression such as `-8 - 7`, and take note of the
 output.  Since the arithmetic system is 4 bits, the serial monitor
-should display `-5+-6=5`, with the corresponding physical output being
-0101.
+should display `-8-7=1`, with the corresponding physical output being
+0001.
+
+![Subtraction Demo](./breadboard/arduino_adder_demo.gif)
 
 
 ## References
