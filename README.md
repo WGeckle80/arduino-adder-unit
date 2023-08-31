@@ -21,7 +21,8 @@ signals, and to verify the circuit results.
 
 ## Usage
 
-Build the circuit described by the schematic in `kicad/schematic.pdf`.
+Build the circuit described by the schematic in
+`arduino_adder_kicad/arduino_adder_kicad.pdf`.
 
 Clone the repository using
 
